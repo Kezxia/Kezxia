@@ -1,4 +1,12 @@
-## Hi there 👋
+## Cybersecurity Professional
+
+<h2>🔐 Cybersecurity Projects:</h2>
+
+- [Summary of Cloud SOC Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Cloud SOC Pre-requisites](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Logging and Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Microsoft Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Secure Cloud Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 **Kezxia/Kezxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
