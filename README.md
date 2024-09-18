@@ -2,7 +2,7 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- [Summary of Cloud SOC + Honeynet Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Summary of Cloud SOC + Honeynet Project](https://github.com/Kezxia/Azure-Honeynet-SOC)
 - [Cloud SOC Pre-requisites](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Logging and Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Microsoft Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
