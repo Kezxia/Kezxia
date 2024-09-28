@@ -5,7 +5,7 @@
 - [Summary of Cloud SOC + Honeynet Project](https://github.com/Kezxia/Azure-Honeynet-SOC)
 - [Cloud SOC Pre-requisites](https://github.com/Kezxia/Cloud-SOC-Setup)
 - [Logging and Monitoring](https://github.com/Kezxia/Logging-and-Monitoring)
-- [Microsoft Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Microsoft Sentinel SIEM](https://github.com/Kezxia/Microsoft-Sentinel-SIEM)
 - [Secure Cloud Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
