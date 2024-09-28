@@ -6,7 +6,7 @@
 - [Cloud SOC Pre-requisites](https://github.com/Kezxia/Cloud-SOC-Setup)
 - [Logging and Monitoring](https://github.com/Kezxia/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/Kezxia/Microsoft-Sentinel-SIEM)
-- [Secure Cloud Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Secure Cloud Configuration](https://github.com/Kezxia/Secure-Cloud-Configuration)
 
 <!--
 **Kezxia/Kezxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
